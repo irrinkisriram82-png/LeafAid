@@ -2,7 +2,7 @@
 
 LeafAid is a Streamlit chat app. Enter your name and email once, then describe a plant problem or attach a photo. Gemini identifies the plant, finds likely problems and suggests simple fixes. One click emails you the full care plan through Gmail.
 
-**Live app:** _add your Streamlit Cloud link here_
+**Live app:** https://leafaid-sriramnaidu.streamlit.app/
 
 ## Features
 - Clinic-style dashboard: hero banner, live stats, profile sidebar, one-click health checks
@@ -69,5 +69,17 @@ pytest
 ## Security
 - Secrets live only in `.streamlit/secrets.toml` (git-ignored) or Streamlit Cloud Secrets.
 - Email addresses are validated and headers are injection-safe.
+ 
+  ## Screenshots
+
+![Login](docs/LeafAid_login.png)
+
+![Dashboard](docs/leadAid_dashboard.png)
+
+![Diagnosis](docs/LeadAid_reply.png)
+
+![Email](docs/LeadAid_mail.png)
+
+![Photo upload](docs/LeadAid_picture_uploaded.png)
 
 _Photo diagnoses are estimates. For serious plant problems, visit a local nursery._
