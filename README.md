@@ -82,4 +82,7 @@ pytest
 
 ![Photo upload](docs/LeadAid_picture_uploaded.png)
 
+**Demo video:** 
+![Watch the demo](docs/LeafAid_Demo.mp4)
+
 _Photo diagnoses are estimates. For serious plant problems, visit a local nursery._
