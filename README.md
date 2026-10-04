@@ -70,8 +70,7 @@ pytest
 - Secrets live only in `.streamlit/secrets.toml` (git-ignored) or Streamlit Cloud Secrets.
 - Email addresses are validated and headers are injection-safe.
 
- **Demo video:** 
-![Watch the demo](docs/LeafAid_Demo.mp4)
+ **Demo video:** [Watch the demo](docs/LeafAid_Demo.mp4)
 
   ## Screenshots
 
