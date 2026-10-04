@@ -4,7 +4,7 @@ LeafAid is a Streamlit chat app. Enter your name and email once, then describe a
 
 **Live app:** https://leafaid-sriramnaidu.streamlit.app/
 
-## LeadAid_App_Demo
+## LeafAid_App_Demo
 
 **Demo video:** [Watch the demo](docs/LeafAid_Demo.mp4)
 
